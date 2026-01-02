@@ -1,0 +1,145 @@
+body{
+    width: 1440px!important;
+    height: 1024px;
+    /* background-color: aquamarine; */
+    margin: auto;
+    /* background: linear-gradient(122.62deg, #C8CCCF 5.59%, #97A3A3 84.01%); */
+
+
+
+}
+
+
+
+
+#Container{
+    width: 1440px!important;
+    height: 1024px;
+    background: #FFFFFF;
+    margin: 10px auto 10px auto;
+
+}
+
+#right{
+    position: relative;
+    top: 50px ;
+    /*margin-right:150px;*/
+    width: 547px;
+    height: 518px;
+    left: 838.6px;
+
+
+}
+#right-img {
+    position: relative;
+    left: 250px;
+}
+
+#mid-img  {
+    position: relative;
+    top: -240px;
+    left: -85px;
+}
+
+#left-img {
+    position: relative;
+    bottom: 430px;
+    right: 420px;
+}
+
+#star-img {
+    position: relative;
+    bottom: 1000px;
+    left: -210px;
+}
+
+#star1-img {
+    position: relative;
+    bottom: 855px;
+    left: 35px;
+}
+
+#wave-img {
+    position: relative;
+    bottom: 1720px;
+    left: -310px;
+}
+#spiral-img{
+    position: relative;
+    bottom: 1550px;
+    left: -310px;
+}
+#left{
+    position: relative;
+    justify-self: left;
+    margin-bottom: 20px;
+    width: 599px;
+    height: 176px;
+    font-family: 'DM Sans';
+    bottom: 450px;
+    left: 100px;
+}
+
+#left h1 {
+    position: relative;
+    justify-self: left;
+    text-align: left;
+    margin-bottom: 20px;
+    width: 599px;
+    height: 176px;
+    font-family: 'DM Sans';
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 88px;
+    top: -90px;
+    bottom: 0px;
+    left: 0px;
+}
+
+
+#left P {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #363830;
+    width: 450px;
+}
+button{
+    font-size: 22px;
+    width: 182px;
+    height: 66px;
+    border-block:none;
+    color: white;
+    background-color: #363830;
+    border-radius: 36px;
+    padding-top: 20px;
+    padding-right: 48px;
+    padding-bottom: 24px;
+    padding-left: 48px;
+
+}
+
+
+#footer P {
+    position: relative;
+    display: inline-block;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #363830;
+    width: 490px;
+    left: 790px;
+    top: 20px;
+}
+#man {
+    position: relative;
+    left: 770px;
+    top: 25px;
+}
+#spiral-img {
+    position: relative;
+    bottom: 1050px;
+    left: -1010px;
+}

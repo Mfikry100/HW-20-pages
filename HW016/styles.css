@@ -1,0 +1,73 @@
+body{
+    width: 1440px!important;
+    height: 1024px;
+    /* background-color: aquamarine; */
+    margin: auto;
+    /* background: linear-gradient(122.62deg, #C8CCCF 5.59%, #97A3A3 84.01%); */
+
+
+
+}
+
+
+
+h1 {
+    position: relative;
+    justify-self: left;
+    text-align: left;
+    font-family: Avenir;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 63px;
+    width: 400px;
+    margin-bottom: 20px;
+}
+p{
+    font-size: 30px;
+    line-height: 43px;
+}
+
+#Container{
+    width: 1440px!important;
+    height: 1024px;
+    background: linear-gradient(172.29deg, #09212C 15.72%, #043E49 68.5%);
+
+    margin: 10px auto 10px auto;
+}
+#backGround{
+    position: relative;
+    width: 1024px!important;
+    height: 1024px;
+    background-image: url("img/AI\ image\ -\ OpenAI.png");
+    background-size: 100% 100%; 
+    left: 416px;
+  
+}
+#header {
+    position: relative;
+    width: 600px;
+    height: 418px;
+    left: -340px;
+    top:200px;
+    border-radius: 24px;
+    padding-top: 40px;
+    padding-right: 56px;
+    padding-bottom: 40px;
+    padding-left: 56px;
+    background: linear-gradient(124.42deg, rgba(0, 0, 0, 0.36) 5.12%, rgba(0, 0, 0, 0.0675) 102.99%);
+}
+#header h1,p{
+    color: aliceblue;
+    font-family: Avenir;
+}
+button{
+    width: 182;
+    height: 66;
+    border-radius: 36px;
+    padding-top: 24px;
+    padding-right: 48px;
+    padding-bottom: 24px;
+    padding-left: 48px;
+    background: #63E1E1;
+    font-size: 25px;
+}
