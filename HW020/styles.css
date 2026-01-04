@@ -1,0 +1,129 @@
+body{
+    /* background-color: aquamarine;  */
+    margin: auto;
+    /* background: linear-gradient(122.62deg, #C8CCCF 5.59%, #97A3A3 84.01%); */
+}
+
+
+#Container{
+    position: relative;
+    width: 1440px!important;
+    height: 1345px;
+    background: #FFFFFF;
+    margin: 10px auto 10px auto;
+}
+
+#bigCup-img{
+    position: absolute;
+    width: 440px;
+    height: 440px;
+    top: 64px;
+    left: 730px;
+}
+
+#smallCup-img{
+    position: absolute;
+    width: 312px;
+    height: 312px;
+    top: 344.48px;
+    left: 1010.48px;
+    border-radius: 150px;
+}
+#footer{
+    position: absolute;
+    width: 1440px;
+    height: 472px;
+    top: 809px;
+    background: #363032;
+
+}
+
+#footer span{
+    position: relative;
+    display: inline-block;
+    padding-left: 5%;
+    padding-top: 9%;
+    font-family: Poppins;
+    font-size: 17px;
+    color: #FFFFFF;
+
+}
+
+#header p{
+    position: absolute;
+    width: 452px;
+    height: 128px;
+    font-family: Playfair Display;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    letter-spacing: 0%;
+    top: 400px;
+    left: 126px;
+}
+
+h1 {
+    position: relative;
+    justify-self: left;
+    text-align: left;
+    top: 157px;
+    width: 430px;
+    left: 126px;
+    font-family: Playfair Display;
+    font-weight: 700;
+    font-size: 68px;
+    line-height: 80px;
+    letter-spacing: 0%;
+}
+#mid{
+    position: absolute;
+    width: 658px;
+    height: 142px;
+    top: 702px;
+    left: 320px;
+    border-radius: 80px;
+    padding-top: 24px;
+    padding-right: 96px;
+    padding-bottom: 24px;
+    padding-left: 96px;
+    background: #ECDAC4;
+    z-index: 1;
+}
+#mid span{
+    position: relative;
+    display: inline-block;
+    width: 150px;
+    top: 0px;
+    text-align:center;
+}
+#mid h2{
+    position: relative;
+    top: -20px;
+    font-size: 32px;
+}
+#mid p{
+    position: relative;
+    top: -30px;
+    font-size: 18px;
+}
+#mid #mm{
+    /* background-color: aqua; */
+    padding: 0 100px 0 100px;
+}
+button{
+    position: absolute;
+    width: 179px;
+    height: 66px;
+    border-radius: 36px;
+    padding-top: 24px;
+    padding-right: 48px;
+    padding-bottom: 24px;
+    padding-left: 48px;
+    background: #A36A4F;
+    top: 625px;
+    left: 126px;
+    border: #A36A4F;
+    color: #FFFFFF;
+    font-size: 20px;
+
+}
